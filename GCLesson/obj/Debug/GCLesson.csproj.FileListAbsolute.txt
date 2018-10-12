@@ -1,0 +1,7 @@
+C:\Users\УринбасаровД\source\repos\GCLesson\GCLesson\bin\Debug\GCLesson.exe.config
+C:\Users\УринбасаровД\source\repos\GCLesson\GCLesson\bin\Debug\GCLesson.exe
+C:\Users\УринбасаровД\source\repos\GCLesson\GCLesson\bin\Debug\GCLesson.pdb
+C:\Users\УринбасаровД\source\repos\GCLesson\GCLesson\obj\Debug\GCLesson.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\GCLesson\GCLesson\obj\Debug\GCLesson.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\GCLesson\GCLesson\obj\Debug\GCLesson.exe
+C:\Users\УринбасаровД\source\repos\GCLesson\GCLesson\obj\Debug\GCLesson.pdb
